@@ -11,14 +11,14 @@ use by voice actors, AI engineers, and project managers.
 ## Prompt Structure I Follow
 
 Every prompt I write contains:
-- **Agent Name & Use Case** — who the agent is and 
+- **Agent Name & Use Case**: who the agent is and 
 what situation it is handling
-- **Persona** — the character identity of the AI agent
-- **Emotional Tone** — the precise feeling to convey
-- **Pacing** — delivery speed and rhythm guidance
-- **Emphasis Points** — which words or phrases to stress
-- **Sample Line** — the actual script line to deliver
-- **Avoid** — common mistakes to prevent
+- **Persona**: the character identity of the AI agent
+- **Emotional Tone**: the precise feeling to convey
+- **Pacing**: delivery speed and rhythm guidance
+- **Emphasis Points**: which words or phrases to stress
+- **Sample Line**: the actual script line to deliver
+- **Avoid**: common mistakes to prevent
 
 ---
 
