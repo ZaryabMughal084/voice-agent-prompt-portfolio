@@ -1,5 +1,5 @@
 # Voice Agent Prompt Portfolio
-### Zaryab Ahmed — Prompt Engineer
+### Zaryab Ahmed (Prompt Engineer)
 
 This portfolio demonstrates my ability to craft 
 professional, emotionally-directed prompts for AI 
