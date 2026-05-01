@@ -149,5 +149,7 @@ engineering principles across both technical and
 creative contexts.
 
 **LinkedIn:** linkedin.com/in/zaryab-ahmed-238a9831a
+
 **GitHub:** github.com/ZaryabMughal084
+
 **Email:** zaryabahmedmughal970@email.com
