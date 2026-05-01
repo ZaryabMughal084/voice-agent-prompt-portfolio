@@ -25,6 +25,7 @@ what situation it is handling
 ## Prompt 1: AI Healthcare Appointment Assistant
 
 **Agent Name:** "Mira", AI Healthcare Scheduling Assistant
+
 **Use Case:** Confirming a patient's upcoming appointment
 
 **Persona:**
